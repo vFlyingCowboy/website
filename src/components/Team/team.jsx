@@ -50,7 +50,7 @@ const Team = () => {
                           data-tooltip-tit={team.title}
                           data-tooltip-sub={team.sub}
                         >
-                          <img src={team.image} alt="" className="imago wow" />
+                          {/*<img src={team.image} alt="" className="imago wow" />*/}
                         </div>
                       </div>
                     ))}
@@ -69,7 +69,7 @@ const Team = () => {
                           data-tooltip-tit={team.title}
                           data-tooltip-sub={team.sub}
                         >
-                          <img src={team.image} alt="" className="imago wow" />
+                          {/*<img src={team.image} alt="" className="imago wow" />*/}
                         </div>
                       </div>
                     ))}

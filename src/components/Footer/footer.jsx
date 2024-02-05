@@ -22,7 +22,7 @@ const Footer = ({ hideBGCOLOR }) => {
               </div>
               <div className="copy-right">
                 <p>
-                  © 2023 Eric Steiner.
+                  © 2023 Eric Steiner
                 </p>
               </div>
             </div>
