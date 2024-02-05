@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-paint-bucket",
+        "title": "CPU",
+        "content": "Intel I9-12900k"
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-phone",
+        "title": "GPU",
+        "content": "MSI RTX 3060Ti"
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-display1",
+        "title": "Ram",
+        "content": "64GB of DDR5"
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-diskette",
+        "title": "Storage",
+        "content": "12TB spread out by 5 drives"
+    }
+]
