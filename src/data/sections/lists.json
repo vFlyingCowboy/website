@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "fa-solid fa-person",
+    "title": "Eric",
+    "content": "https://www.amazon.com/hz/wishlist/ls/1UVRXB7427QW8?ref_=wl_share"
+  },
+  {
+    "id": 2,
+    "icon": "fa-solid fa-person-dress",
+    "title": "Roxanne",
+    "content": "https://www.amazon.com/hz/wishlist/ls/10X8SEZPA7POA?ref_=wl_share"
+  },
+  {
+    "id": 3,
+    "icon": "fa-solid fa-family",
+    "title": "Sophia",
+    "content": "https://www.amazon.com/hz/wishlist/ls/2KUFDG20Z0BSF?ref_=wl_share"
+  },
+  {
+    "id": 4,
+    "icon": "fa-solid fa-family",
+    "title": "Terrance",
+    "content": "https://www.amazon.com/hz/wishlist/ls/1HYC5NF85F8WQ?ref_=wl_share"
+  }
+]

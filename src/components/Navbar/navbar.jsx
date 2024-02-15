@@ -42,34 +42,32 @@ const Navbar = ({ lr, nr, theme }) => {
                 About
               </Link>
             </li>
+            {/*<li className="nav-item">*/}
+            {/*  <Link to="#" className="nav-link">*/}
+            {/*    Family Recipes*/}
+            {/*  </Link>*/}
+            {/*</li>*/}
+            <li className="nav-item">
+              <Link to="https://github.com/vFlyingCowboy" target="_blank" className="nav-link">
+                Github
+              </Link>
+            </li>
             <li className="nav-item dropdown" onClick={handleDropdown}>
               <span
-                className="nav-link dropdown-toggle"
-                data-toggle="dropdown"
-                role="button"
-                aria-haspopup="true"
-                aria-expanded="false"
+                  className="nav-link dropdown-toggle"
+                  data-toggle="dropdown"
+                  role="button"
+                  aria-haspopup="true"
+                  aria-expanded="false"
               >
-                Works
+                Other Links
               </span>
               <div className="dropdown-menu">
-                <Link to={`/showcase/showcase-dark`} className="dropdown-item">
-                  Showcase Parallax
+                <Link className="dropdown-item" to="#">
+                  Recipes Website (WIP)
                 </Link>
-                <Link to={`/showcase4/showcase4-dark`} className="dropdown-item">
-                  Showcase Carousel
-                </Link>
-                <Link to={`/showcase3/showcase3-dark`} className="dropdown-item">
-                  Showcase Circle
-                </Link>
-                <Link to={`/works/works-dark`} className="dropdown-item">
-                  Portfolio Masonry
-                </Link>
-                <Link to={`/works2/works2-dark`} className="dropdown-item">
-                  Portfolio Filtering
-                </Link>
-                <Link to={`/works3/works3-dark`} className="dropdown-item">
-                  Portfolio Gallery
+                <Link to={`/lists`} className="dropdown-item">
+                  Lists
                 </Link>
               </div>
             </li>
