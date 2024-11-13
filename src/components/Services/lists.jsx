@@ -40,7 +40,7 @@ const Listslist = ({ style, lines }) => {
                                     </div>
                                     <div className="cont">
                                         <h6>{feature.title}</h6>
-                                        <a className="btn btn-primary" target="_blank" href={feature.content}>View List Here!</a>
+                                        <a className="btn btn-primary" target="_blank" rel="noreferrer" href={feature.content}>View List Here!</a>
                                     </div>
                                 </div>
                             </div>

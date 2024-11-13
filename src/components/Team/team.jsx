@@ -30,7 +30,7 @@ const Team = () => {
                 I have 2 Children!
               </h3>
               <p>
-                Sophia, 10 is my stepdaughter and Terrance,2 is my son!
+                Sophia, 10 is my stepdaughter and Terrance,3 is my son!
               </p>
             </div>
           </div>
